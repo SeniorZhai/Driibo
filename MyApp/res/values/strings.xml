@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">MyApp</string>
+    <string name="action_settings">设置</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_share">分享</string>
+    <string name="image_not_downloaded">图片未下载</string>
+    <string name="the_end">最后</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+    <string name="refresh_list_failed">刷新错误</string>
+    <string name="donate_url">https://m.alipay.com/personal/payment.htm?reason=给我买个键盘T_T&amp;amount=3&amp;account=issac@imid.me</string>
+
+</resources>
